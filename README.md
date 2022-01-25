@@ -1,4 +1,4 @@
-# Create API Service In React
+# Create API Service
 
 ### Step 1
 create enviroment file and add **main** url end point
