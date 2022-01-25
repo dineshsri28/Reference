@@ -13,7 +13,11 @@ const URLs = {
 };
 
 export default URLs;
+
+//Use ENV is recommended
 ```
+
+
 **Use like this**
 ```
 import URLs from "config/environment";
